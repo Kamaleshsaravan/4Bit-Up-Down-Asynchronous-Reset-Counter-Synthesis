@@ -138,17 +138,13 @@ set_output_delay -max 0.8 [get_ports "count"] -clock [get_clocks "clk"]
 ![Screenshot 2024-11-11 113909](https://github.com/user-attachments/assets/52aebc42-f5ca-4529-997f-a23b08d645d9)
 
 #### Area report:
-![image](https://github.com/user-attachments/assets/8aaa87bf-d90d-473c-bfd6-eecb3647dbfa)
-
+![image](https://github.com/user-attachments/assets/c6a39a2e-16eb-40d3-bbad-438672e5d912)
 
 #### Power Report:
-![Screenshot (158)](https://github.com/user-attachments/assets/d876d934-68d6-45e8-b085-307ddc1f2a9f)
-
+![image](https://github.com/user-attachments/assets/3feeaa17-8406-4287-934f-1f1b750f2743)
 
 #### Timing Report: 
-![Screenshot (159)](https://github.com/user-attachments/assets/9bd5076e-f898-4bde-b7cc-122d65ac6989)
-
-
+![image](https://github.com/user-attachments/assets/c5e57800-c7ba-4148-87e0-58c95e941641)
 
 #### Result:
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
